@@ -1,6 +1,6 @@
 ## PythonSWH - A python library for making calls and getting data from Software Heritage API
 
-#### How to install it - pip install -i https://test.pypi.org/simple/ PythonSWH
+#### How to install it - pip3 install -i https://test.pypi.org/simple/ PythonSWH
 
 #### Methods and their descriptions
 
@@ -15,3 +15,5 @@
 #### How to use - from PythonSWH import myFunctions and then myFunctions.getMetaData(param1, param2)
 
 #### for example: myFunctions.getMetaData('sha1','dc2830a9e72f23c1dfebef4413003221baa5fb62')
+
+### Requires python 3.2 onwards
